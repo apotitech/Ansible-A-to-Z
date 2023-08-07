@@ -84,4 +84,4 @@ ansible 2.10.5
 ```
 
 Now head to the first step in
-[step-01](https://github.com/leucos/ansible-tuto/tree/master/step-01).
+[step-01](https://github.com/apotitech/ansible-tuto/tree/master/step-01).
